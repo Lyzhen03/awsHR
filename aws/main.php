@@ -49,10 +49,7 @@
     </header>
         
         
-        <div class="body"style="background-image: url('computer-science.jpg');
-            background-repeat: no-repeat;
-            background-attachment: fixed;
-            background-size: 100% ;width:100%;text-align: center;">
+       
     <div class="container">
     <div class="title-1 text-white pt-4">
         <h1>Welcome to</h1>
